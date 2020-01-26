@@ -2,12 +2,12 @@
 
 ## HTTP and REST
 
-### Author: Abbdulrhman Alharasis
+### Author: Abdulrhman Alharasis
 
 
 ### Links and Resources
 
-- [submission PR](https://github.com/401-advanced-javascript-Dante/lab05/pull/1)
+- [submission PR](https://github.com/401-advanced-javascript-Dante/simple-api/pull/1)
 - [swagger](https://app.swaggerhub.com/apis/dantemessy/lab06/0.1) (Swagger link)
 
 
