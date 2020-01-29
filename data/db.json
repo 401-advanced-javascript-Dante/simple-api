@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "name": "shirts",
+      "display_name": "shirto",
+      "description": "japanese_shirts",
+      "_id": 1
+    },
+    {
+      "name": "pants",
+      "display_name": "pantoo",
+      "description": "japanese_pants",
+      "_id": 2
+    }
+  ],
+  "products": [
+    {
+      "category": "shirts",
+      "name": "kawaii_shirt",
+      "display_name": "sogooi_shirtoo",
+      "description": "bleach_anime_shirtoo",
+      "_id": 1
+    },
+    {
+      "category": "pants",
+      "name": "killer",
+      "display_name": "sogooi_shirtoo",
+      "description": "bleach_anime_shirtoo",
+      "_id": 2
+    }
+  ]
+}
